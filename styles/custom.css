@@ -1,0 +1,12 @@
+.custom-button {
+    background-color: #ff5733; /* 오렌지색 */
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.custom-button:hover {
+    background-color: #e04e20;
+}
